@@ -1,0 +1,2 @@
+# SmartNotepad
+Python Project
